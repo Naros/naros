@@ -9,7 +9,7 @@ I have been in the industry for over 25 years working on a combination of propri
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p align="center">
-<img widht="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naros&show_icons=true&theme=dark&include_all_commits=true&card_width=800&v=124" />
+<img widht="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naros&show_icons=true&theme=dark&include_all_commits=true&card_width=800&hide_title=true&v=126" />
 </p>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
