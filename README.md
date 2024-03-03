@@ -9,8 +9,8 @@ I have been in the industry for over 25 years working on a combination of propri
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p valign="top" align="center">
-  <img width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naros&show_icons=true&theme=ayu-mirage&include_all_commits=true&hide_title=false&v=127" />
-  <img width="auto" src="https://streak-stats.demolab.com/?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat" />
+  <img width="435px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naros&show_icons=true&theme=ayu-mirage&include_all_commits=true&hide_title=false&v=127" />
+  <img width="435px" src="https://streak-stats.demolab.com/?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat" />
 </p>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
