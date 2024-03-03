@@ -21,4 +21,3 @@ I have been in the industry for over 25 years working on a combination of propri
 <p align="center">
 <img width="auto"  src="https://skillicons.dev/icons?i=redhat,java,c,cs,cpp,dotnet,go,lua,py,ruby,openshift,openstack,maven,cmake,gradle,spring,kafka,kubernetes,git,github,githubactions,gitlab,linux,ubuntu,windows,nginx,idea,clion,vscode,eclipse,visualstudio,docker,aws,hibernate,postgres,mysql,mongodb,rabbitmq,redis,md,angular,js,html,css,react,bootstrap,nodejs,jquery,godot,unity,unreal,ai,pytorch,tensorflow&perline=18"  />
 </p>
-<br />
