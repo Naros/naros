@@ -9,12 +9,12 @@ I have been in the industry for over 25 years working on a combination of propri
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p align="center">
-<img widht="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naros&show_icons=true&theme=dark&include_all_commits=true&card_width=800&hide_title=true&v=126" />
+<img widht="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naros&show_icons=true&theme=dark&include_all_commits=true&card_width=800&hide_title=true&v=127" />
 </p>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-<img width="auto" src="https://github-profile-trophy.vercel.app/?username=naros&theme=onedark&rank=-C" />
+<img width="auto" src="https://github-profile-trophy.vercel.app/?username=Naros&theme=onedark&rank=-C&v=127" />
 </p>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
