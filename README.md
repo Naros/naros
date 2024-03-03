@@ -4,7 +4,7 @@ I am also an active maintainer of [Hibernate](https://hibernate.org), an Object/
 I have been in the industry for over 25 years working on a combination of proprietary and open-source projects, with a deep knowledge of Oracle database and complex, distributed applications.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Naros" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="Naros" style="padding-right:20px;" />
 </p>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
