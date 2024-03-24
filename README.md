@@ -1,7 +1,17 @@
-# 👋 About Me
-I am a Principal Software Engineer at Red Hat as a lead engineer on [Debezium](https://debezium.io), an open-source change data capture (CDC) framework that transforms your database's transaction logs into events.
-I am also an active maintainer of [Hibernate](https://hibernate.org), an Object/Relational Model system for Java persistence.
-I have been in the industry for over 25 years working on a combination of proprietary and open-source projects, with a deep knowledge of Oracle database and complex, distributed applications.
+# Hi! I'm Chris 👋 
+Principal Software Engineer, working at Red Hat.
+
+I am a lead engineer of [Debezium](https://debezium.io), an open-source change data capture (CDC) platform that transforms your database's transaction log into change events.
+If you are interested in details about change data capture (CDC) and how Debezium is leading the industry in this space, you can find me on [Zulip](https://debezium.zulipchat.com/#narrow/stream/302529-users) or the Google [mailing list](https://groups.google.com/forum/#!forum/debezium).
+
+Besides Debezium, I am also an active maintainer of several projects in the [Quarkus](https://quarkus.io) platform, a collection of community-led tools for Quarkus, a Kubernetes-native Java framework tailored for GraalVM and HotSpot.
+Quarkus is based on the best-of-breed libraries and tools within the Java ecosystem.
+In addition, I am also an active contributor to [Hibernate](https://hibernate.org), an Object/Relational Model system for Java Persistence.
+
+I have over 25 years of IT experience working across proprietary and open-source projects.
+I've extensively worked with a variety of database platforms, including Oracle, SQL Server, and PostgreSQL, during that time while working on designing and developing complex, distributed database-driven applications and infrastructure.
+
+And because coding is fun, you'll often find me in other open-source projects when I'm not working 😁.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="Naros" style="padding-right:20px;" />
