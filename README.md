@@ -13,6 +13,8 @@ I've extensively worked with a variety of database platforms, including Oracle, 
 
 And because coding is fun, you'll often find me in other open-source projects when I'm not working 😁.
 
+If you like any of my work, please be sure to give my work a ⭐ or follow me 👈.
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="Naros" style="padding-right:20px;" />
 </p>
