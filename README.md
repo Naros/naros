@@ -1,4 +1,4 @@
-# Hi! I'm Chris 👋 
+# Hi! I'm Chris ✋
 Principal Software Engineer, working at Red Hat.
 
 I am a lead engineer of [Debezium](https://debezium.io), an open-source change data capture (CDC) platform that transforms your database's transaction log into change events.
