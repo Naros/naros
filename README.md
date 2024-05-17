@@ -1,7 +1,9 @@
 # Hi! I'm Chris ✋
 Principal Software Engineer, employed at Red Hat for eight years.
 
-I am a lead engineer of [Debezium](https://debezium.io), an open-source change data capture (CDC) platform that transforms your database's transaction log into change events.
+I am one of the lead engineers on [Debezium](https://debezium.io), an open-source change data capture (CDC) platform.
+Debezium transforms your database's transaction logs into events that can be sent to Kafka, EventHubs, Google PubSub, and several other broker systems.
+Change data capture is one of the best ways to react to changes in one microservice and reflect that change in other services.
 If you are interested in details about change data capture (CDC) and how Debezium is leading the industry in this space, you can find me on [Zulip](https://debezium.zulipchat.com/#narrow/stream/302529-users) or the Google [mailing list](https://groups.google.com/forum/#!forum/debezium).
 
 Besides Debezium, I am also an active maintainer of several projects in the [Quarkus](https://quarkus.io) platform, a collection of community-led tools for Quarkus, a Kubernetes-native Java framework tailored for GraalVM and HotSpot.
