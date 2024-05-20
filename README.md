@@ -1,5 +1,5 @@
 # Hi! I'm Chris ✋
-Principal Software Engineer, employed at Red Hat for eight years.
+Principal Software Engineer, employed at Red Hat for eight and a half years.
 
 I am one of the lead engineers on [Debezium](https://debezium.io), an open-source change data capture (CDC) platform.
 Debezium transforms your database's transaction logs into events that can be sent to Kafka, EventHubs, Google PubSub, and several other broker systems.
