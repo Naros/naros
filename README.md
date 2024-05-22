@@ -1,4 +1,4 @@
-# Hi! I'm Chris ✋
+# Hi! I'm Chris (aka Naros) ✋
 Principal Software Engineer, employed at Red Hat for eight and a half years.
 
 I am one of the lead engineers on [Debezium](https://debezium.io), an open-source change data capture (CDC) platform.
