@@ -10,8 +10,7 @@ Besides Debezium, I am also an active maintainer of several projects in the [Qua
 Quarkus is based on the best-of-breed libraries and tools within the Java ecosystem.
 In addition, I am also an active contributor to [Hibernate](https://hibernate.org), an Object/Relational Model system for Java Persistence.
 
-I have over 25 years of IT experience working across proprietary and open-source projects.
-I've extensively worked with a variety of database platforms, including Oracle, SQL Server, and PostgreSQL, during that time while working on designing and developing complex, distributed database-driven applications and infrastructure.
+I have over 25 years of IT experience working across proprietary and open-source projects, extensively working with a variety of database platforms, including Oracle, SQL Server, and PostgreSQL, during that time while working on designing and developing complex, distributed database-driven applications and infrastructure.
 
 And because coding is fun, you'll often find me in several open-source projects when I'm not working 😁.
 
