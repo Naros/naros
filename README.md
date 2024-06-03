@@ -11,7 +11,7 @@ In addition, I am also an active contributor to [Hibernate](https://hibernate.or
 
 I have nearly 30 years of IT experience working across proprietary and open-source projects, extensively working with a variety of database platforms, including Oracle, SQL Server, and PostgreSQL, during that time while working on designing and developing complex, distributed database-driven applications and infrastructure.
 
-And because coding is fun, you'll often find me in several open-source projects when I'm not working 😁.
+You'll often find me in several open-source projects when I'm not working 😁.
 
 If you like any of my work, please be sure to give my work a ⭐, and give me a follow 👈.
 
