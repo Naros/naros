@@ -27,7 +27,7 @@ If you like any of my work, please be sure to give my work a ⭐, and give me a 
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-<img width="auto" src="https://github-profile-trophy.vercel.app/?username=Naros&theme=onedark&rank=-C&v=127" />
+<img width="auto" src="https://github-profile-trophy.vercel.app/?username=Naros&theme=onedark&rank=-C&v=128&margin-w=10&margin-h=10" />
 </p>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
