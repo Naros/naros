@@ -22,7 +22,7 @@ If you like any of my work, please be sure to give my work a ⭐, and give me a 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p valign="top" align="center">
   <img width="400px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naros&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&show=&rank_icon=percentile&theme=ayu-mirage&hide_title=true" hspace="10" />
-  <img width="400px" src="https://streak-stats.demolab.com/?user=Naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=12345678" hspace="10" />
+  <img width="400px" src="https://streak-stats.demolab.com/?user=Naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=123456789" hspace="10" />
 </p>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
