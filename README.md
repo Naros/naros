@@ -17,8 +17,6 @@ Lastly, in my spare time I enjoy contributing to the [Godot](https://godotengine
 As a part of this effort, I work on the [Godot CPP](https://github.com/godotengine/godot-cpp) project, which provides C++ bindings for writing Godot plug-ins and tools in C++.
 This gives me an opportunity to continue to hone my C/C++ skills and work with other build systems such as CMake, Scons, and more.
 
-You'll often find me in several open-source projects when I'm not working 😁.
-
 If you like any of my work, please be sure to give my work a ⭐, and give me a follow 👈.
 
 <p align="left">
