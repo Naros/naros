@@ -13,7 +13,7 @@ Within the Quarkus ecosystem, I maintain the community-led Quarkus platform [Deb
 I am also an active contributor to [Hibernate](https://hibernate.org), an Object/Relational Model system for Java Persistence.
 Prior to joining the Debezium project to work on CDC, I was heavily involved in the Hibernate 4, 5, and 6 major release milestones while also splitting my time working on [Hibernate Envers](https://github.com/sebersole/hibernate-envers-lgpl), an audit-tracking subsystem for Hibernate entities.
 
-Lastly, in my spare time I enjoy contributing to the [Godot](https://godotengine.org), an open-source C++ game engine.
+Lastly, in my spare time, I enjoy contributing to the [Godot](https://godotengine.org), an open-source C++ game engine.
 As a part of this effort, I work on the [Godot CPP](https://github.com/godotengine/godot-cpp) project, which provides C++ bindings for writing Godot plug-ins and tools in C++.
 This gives me an opportunity to continue to hone my C/C++ skills and work with other build systems such as CMake, Scons, and more.
 
