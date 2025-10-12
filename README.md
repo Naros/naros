@@ -31,7 +31,7 @@ If you like any of my work, please be sure to give it a ⭐ and follow me 👈.
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-<img width="auto" src="https://github-profile-trophy.vercel.app/?username=Naros&theme=onedark&rank=-C&v=128&margin-w=10&margin-h=10&ver=129" />
+<img width="auto" src="https://github-profile-trophy.vercel.app/?username=Naros&theme=onedark&rank=-C&margin-w=5&margin-h=10&ver=129&title=MultiLanguage,LongTimeUser,Organizations,PullRequest,Repositories,Reviews,Commits,Issues,Followers&column=9" />
 </p>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
