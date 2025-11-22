@@ -20,7 +20,13 @@ This provides me with an opportunity to continue honing my C/C++ skills and work
 If you like any of my work, please be sure to give it a ⭐ and follow me 👈.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="Naros" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="Naros" style="padding-right:20px;" />  
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/1572269?style=for-the-badge" alt="Naros" style="padding-right:20px;" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/github/commit-activity/t/Naros/debezium?style=for-the-badge&label=Lifetime%20Commits" alt="Naros" style="padding-right:20px;" />
+  <img src="https://img.shields.io/github/commit-activity/y/Naros/debezium?style=for-the-badge&label=Debezium%20commits" alt="Naros" style="padding-right:20px;" />
+  <img src="https://img.shields.io/github/commit-activity/y/Naros/godot-orchestrator?style=for-the-badge&label=Orchestrator%20commits" alt="Naros" style="padding-right:20px;"/>
 </p>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -36,5 +42,5 @@ If you like any of my work, please be sure to give it a ⭐ and follow me 👈.
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="auto"  src="https://skillicons.dev/icons?i=redhat,java,c,cs,cpp,dotnet,go,lua,py,ruby,openshift,openstack,maven,cmake,gradle,spring,kafka,kubernetes,git,github,githubactions,gitlab,linux,ubuntu,windows,nginx,idea,clion,vscode,eclipse,visualstudio,docker,aws,hibernate,postgres,mysql,mongodb,rabbitmq,redis,md,angular,js,html,css,react,bootstrap,nodejs,jquery,godot,unity,unreal,ai,pytorch,tensorflow&perline=18"  />
+<img width="auto"  src="https://skillicons.dev/icons?i=redhat,java,c,cs,cpp,dotnet,go,lua,py,ruby,rust,php,openshift,openstack,ansible,maven,cmake,gradle,spring,kafka,kubernetes,grafana,prometheus,git,github,githubactions,gitlab,linux,ubuntu,windows,apple,nginx,idea,clion,vscode,eclipse,visualstudio,docker,aws,azure,hibernate,postgres,mysql,mongodb,rabbitmq,redis,md,angular,js,html,css,cypress,react,bootstrap,tailwind,nodejs,npm,vite,jquery,laravel,godot,unity,unreal,blender,ai,pytorch,tensorflow,cloudflare,vercel&perline=18"  />
 </p>
