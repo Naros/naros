@@ -1,5 +1,10 @@
 # Hi! I'm Chris ✋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="Naros" style="padding-right:20px;" />  
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/1572269?style=for-the-badge" alt="Naros" style="padding-right:20px;" />
+</p>
+
 I am a Principal Software Engineer, employed at IBM and Red Hat for the last nine years.
 I have nearly 30 years of IT experience, working on a wide range of proprietary and open-source projects, with extensive experience with database platforms including Oracle, SQL Server, and PostgreSQL.
 
@@ -19,20 +24,14 @@ This provides me with an opportunity to continue honing my C/C++ skills and work
 
 If you like any of my work, please be sure to give it a ⭐ and follow me 👈.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="Naros" style="padding-right:20px;" />  
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/1572269?style=for-the-badge" alt="Naros" style="padding-right:20px;" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/github/commit-activity/t/Naros/debezium?style=for-the-badge&label=Lifetime%20Commits" alt="Naros" style="padding-right:20px;" />
-  <img src="https://img.shields.io/github/commit-activity/y/Naros/debezium?style=for-the-badge&label=Debezium%20commits" alt="Naros" style="padding-right:20px;" />
-  <img src="https://img.shields.io/github/commit-activity/y/Naros/godot-orchestrator?style=for-the-badge&label=Orchestrator%20commits" alt="Naros" style="padding-right:20px;"/>
-</p>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p valign="top" align="center">
   <img width="400px" src="https://github-readme-stats-ebon-gamma-34.vercel.app/api?username=naros&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&show=&rank_icon=percentile&theme=ayu-mirage&hide_title=true" hspace="10" />
   <img width="400px" src="https://github-readme-streak-stats-delta-lilac.vercel.app?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=11" hspace="10" />
+  <br/><br/>
+  <img src="https://img.shields.io/github/commit-activity/y/Naros/debezium?style=for-the-badge&label=Debezium%20commits" alt="Naros" style="padding-right:20px;" />
+  <img src="https://img.shields.io/github/commit-activity/y/Naros/godot-orchestrator?style=for-the-badge&label=Orchestrator%20commits" alt="Naros" style="padding-right:20px;"/>
 </p>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
