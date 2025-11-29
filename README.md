@@ -28,7 +28,7 @@ If you like any of my work, please be sure to give it a ⭐ and follow me 👈.
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p valign="top" align="center">
   <img width="400px" src="https://github-readme-stats-ebon-gamma-34.vercel.app/api?username=naros&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&show=&rank_icon=percentile&theme=ayu-mirage&hide_title=true" hspace="10" />
-  <img width="400px" src="https://github-readme-streak-stats-delta-lilac.vercel.app?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=13" hspace="10" />
+  <img width="400px" src="https://github-readme-streak-stats-delta-lilac.vercel.app?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=14" hspace="10" />
   <br/><br/>
   <img src="https://img.shields.io/github/commit-activity/y/Naros/debezium?style=for-the-badge&label=Debezium%20commits" alt="Naros" style="padding-right:20px;" />
   <img src="https://img.shields.io/github/commit-activity/y/Naros/godot-orchestrator?style=for-the-badge&label=Orchestrator%20commits" alt="Naros" style="padding-right:20px;"/>
