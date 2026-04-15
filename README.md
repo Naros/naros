@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/1572269?style=for-the-badge" alt="Naros" style="padding-right:20px;" />
 </p>
 
-I am a Principal Software Engineer, employed at IBM and Red Hat for the last nine years.
+I am a Principal Software Engineer, employed at IBM and Red Hat for the last tens years.
 I have nearly 30 years of IT experience, working on a wide range of proprietary and open-source projects, with extensive experience with database platforms including Oracle, SQL Server, and PostgreSQL.
 
 I am one of the lead engineers on [Debezium](https://debezium.io), an open-source change data capture (CDC) platform that transforms your database's transaction logs into events that can be published to Kafka, EventHubs, Google PubSub, and other message broker systems.
