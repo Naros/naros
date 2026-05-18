@@ -1,45 +1,56 @@
-# Hi! I'm Chris ✋
+# Hi! I'm Chris 👋
+
+Principal Software Engineer at IBM and Red Hat for the past ten years, with nearly 30 years of IT experience spanning a wide range of proprietary and open-source projects.
+Prior to IBM and Red Hat, I worked as an Oracle DBA and led CDC implementations across Oracle and SAP ERP systems, ultimately shaping my focus on database internals and data streaming.
+These experiences have given me extensive knowledge of various database vendors, including Oracle, SQL Server, and PostgreSQL.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Naros&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="Naros" style="padding-right:20px;" />  
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/1572269?style=for-the-badge" alt="Naros" style="padding-right:20px;" />
 </p>
 
-I am a Principal Software Engineer, employed at IBM and Red Hat for the last tens years.
-I have nearly 30 years of IT experience, working on a wide range of proprietary and open-source projects, with extensive experience with database platforms including Oracle, SQL Server, and PostgreSQL.
+## What I Work On
 
-I am one of the lead engineers on [Debezium](https://debezium.io), an open-source change data capture (CDC) platform that transforms your database's transaction logs into events that can be published to Kafka, EventHubs, Google PubSub, and other message broker systems.
-Change data capture (CDC) is one of the most efficient ways to react to changes, particularly in microservices, and communicate those changes across microservice boundaries.
-If you are interested in CDC, details about implementing CDC with Debezium, or want to learn more about how Debezium is leading the industry, you can find me on [Zulip](https://debezium.zulipchat.com/#narrow/stream/302529-users) or the Google [mailing list](https://groups.google.com/forum/#!forum/debezium).
+### [Debezium](https://debezium.io) (Lead Engineer)
 
-In addition to Debezium, I also contribute to [Quarkus](https://quarkus.io), a Kubernetes-native Java framework for GraalVM and HotSpot, which leverages the best-of-breed libraries and tools within the Java ecosystem.
-Within the Quarkus ecosystem, I maintain the community-led Quarkus platform [Debezium Outbox Extension](https://github.com/debezium/debezium/tree/main/debezium-quarkus-outbox), which brings native CDC and Outbox functionality to Quarkus. 
+I am one of the lead engineers on Debezium, an open-source change data capture (CDC) platform that transforms your database's transaction logs into events, that can be published to [Kafka](https://kafka.apache.org), [EventHubs](https://azure.microsoft.com/en-us/products/event-hubs), [Google PubSub](https://cloud.google.com/pubsub), and other messaging brokers.
 
-I am also an active contributor to [Hibernate](https://hibernate.org), an Object/Relational Model system for Java Persistence.
-Before joining the Debezium project to work on CDC, I was heavily involved in the Hibernate 4, 5, and 6 major release milestones while also splitting my time working on [Hibernate Envers](https://github.com/sebersole/hibernate-envers-lgpl), an audit-tracking subsystem for Hibernate entities.
+CDC is one of the most efficient ways to react to and propagate data changes, particularly across microservice boundaries, and Debezium is at the forefront of making that approachable at scale.
 
-Lastly, in my spare time, I enjoy contributing to [Godot](https://godotengine.org), an open-source C++ game engine.
-As part of this effort, I work on the [Godot CPP](https://github.com/godotengine/godot-cpp) project, which provides C++ bindings for writing Godot plug-ins and tools.
-This provides me with an opportunity to continue honing my C/C++ skills and to work with other build systems, such as CMake and SCons.
+If you are interested in CDC or want to discuss Debezium you can find me on [Zulip](https://debezium.zulipchat.com/#narrow/stream/302529-users) or the Google [mailing list](https://groups.google.com/forum/#!forum/debezium).
 
-If you like any of my work, please be sure to give it a ⭐ and follow me 👈.
-
+### [Quarkus](https://quarkus.io) (Contributor & Extension Maintainer)
+ 
+I contribute to Quarkus, a Kubernetes-native Java framework for GraalVM and HotSpot that brings together the best-of-breed libraries in the Java ecosystem.
+Within the Quarkus community, I co-maintain the [Debezium Quarkus Extensions](https://github.com/debezium/debezium-quarkus), which brings native CDC and Outbox pattern functionality to Quarkus applications.
+ 
+### [Hibernate](https://hibernate.org) (Active Contributor)
+ 
+I am an active contributor to Hibernate, an Object/Relational Mapping framework for Java persistence.
+Before shifting my focus to CDC and Debezium, I was heavily involved in the Hibernate 4, 5, and 6 major release milestones, while also contributing to [Hibernate Envers](https://github.com/sebersole/hibernate-envers-lgpl), an audit-tracking subsystem for Hibernate entities.
+ 
+## In My Spare Time
+ 
+### [Godot](https://godotengine.org) (Open-Source Contributor)
+ 
+In my spare time, I enjoy contributing to Godot, an open-source C++ game engine.
+I work primarily on the [Godot CPP](https://github.com/godotengine/godot-cpp) project, which provides C++ bindings for writing Godot plug-ins and tools.
+It's a great opportunity to keep my C/C++ skills sharp and to work with build systems like CMake and SCons.
+ 
+## Let's Connect
+ 
+If any of my work interests you, I'd love to connect. Feel free to follow along, give a project a ⭐, or reach out directly!
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p valign="top" align="center">
   <img width="400px" src="https://github-readme-stats-ebon-gamma-34.vercel.app/api?username=naros&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&show=&rank_icon=percentile&theme=ayu-mirage&hide_title=true" hspace="10" />
   <img width="400px" src="https://github-readme-streak-stats-delta-lilac.vercel.app?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=16" hspace="10" />
-  <br/><br/>
-  <img src="https://img.shields.io/github/commit-activity/y/Naros/debezium?style=for-the-badge&label=Debezium%20commits" alt="Naros" style="padding-right:20px;" />
-  <img src="https://img.shields.io/github/commit-activity/y/Naros/godot-orchestrator?style=for-the-badge&label=Orchestrator%20commits" alt="Naros" style="padding-right:20px;"/>
 </p>
-
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
 <img width="auto" src="https://github-profile-trophy-topaz.vercel.app/?username=Naros&theme=onedark&rank=-C&margin-w=5&margin-h=10&ver=129&title=MultiLanguage,LongTimeUser,Organizations,PullRequest,Repositories,Reviews,Commits,Issues,Followers&column=9" />
 </p>
-
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 <p align="center">
-<img width="auto"  src="https://skillicons.dev/icons?i=redhat,java,c,cs,cpp,dotnet,go,lua,py,ruby,rust,php,openshift,openstack,ansible,maven,cmake,gradle,spring,kafka,kubernetes,grafana,prometheus,git,github,githubactions,gitlab,linux,ubuntu,windows,apple,nginx,idea,clion,vscode,eclipse,visualstudio,docker,aws,azure,hibernate,postgres,mysql,mongodb,rabbitmq,redis,md,angular,js,html,css,cypress,react,bootstrap,tailwind,nodejs,npm,vite,jquery,laravel,godot,unity,unreal,blender,ai,pytorch,tensorflow,cloudflare,vercel&perline=18"  />
+<img width="auto" src="https://skillicons.dev/icons?i=redhat,java,c,cpp,go,py,rust,openshift,ansible,maven,cmake,gradle,spring,kafka,kubernetes,grafana,prometheus,git,github,githubactions,gitlab,linux,ubuntu,docker,aws,azure,hibernate,postgres,mysql,mongodb,redis,md,godot&perline=18" />
 </p>
