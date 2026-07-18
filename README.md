@@ -11,7 +11,7 @@ These experiences have given me extensive knowledge of various database vendors,
 
 ## What I Work On
 
-### [Debezium](https://debezium.io) (Lead Engineer)
+### [Debezium](https://debezium.io) (Maintainer)
 
 I am one of the lead engineers on Debezium, an open-source change data capture (CDC) platform that transforms your database's transaction logs into events, that can be published to [Kafka](https://kafka.apache.org), [EventHubs](https://azure.microsoft.com/en-us/products/event-hubs), [Google PubSub](https://cloud.google.com/pubsub), and other messaging brokers.
 
