@@ -44,7 +44,7 @@ If any of my work interests you, I'd love to connect. Feel free to follow along,
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p valign="top" align="center">
   <img width="400px" src="https://github-stats-extended-git-query-fix-naros1s-projects.vercel.app/api?username=naros&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&show=&rank_icon=percentile&theme=ayu-mirage&hide_title=true" hspace="10" />
-  <img width="400px" src="https://github-readme-streak-stats-eight.vercel.app?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=17" hspace="10" />
+  <img width="400px" src="https://github-readme-streak-stats-eight.vercel.app?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=18" hspace="10" />
 </p>
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
