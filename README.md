@@ -48,7 +48,7 @@ If any of my work interests you, I'd love to connect. Feel free to follow along,
 </p>
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-<img width="auto" src="https://trophy.benkou.dev/?username=Naros&theme=onedark&rank=-C&margin-w=5&margin-h=10&ver=129&title=MultiLanguage,LongTimeUser,Organizations,PullRequest,Repositories,Reviews,Commits,Issues,Followers&column=9" />
+<img width="auto" src="https://github-trophies.devomb.com/?username=Naros&theme=onedark&rank=-C&margin-w=5&margin-h=10&ver=129&title=MultiLanguage,LongTimeUser,Organizations,PullRequest,Repositories,Reviews,Commits,Issues,Followers&column=9" />
 </p>
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 <p align="center">
